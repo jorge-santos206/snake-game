@@ -1,0 +1,34 @@
+body,html {
+margin: 0vh;
+margin: 0vw;
+width: 100vw;
+height: 100vh;
+}
+
+#gameboard{
+
+    border: 3px solid black;
+
+}
+
+#g-container{
+
+    text-align: center;
+}
+#score{
+font-family: "Permanent Marker",cursive;
+font-size: 40px;
+
+   
+}
+
+#reset{
+    /*align-content: center;*/
+    width: 100px;
+    height: 60px;
+    cursor: pointer;
+    font-family: "Permanent Marker", cursive;
+    border: 4px solid ;
+    border-radius: 10px;
+
+}
